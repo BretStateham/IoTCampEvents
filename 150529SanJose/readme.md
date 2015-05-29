@@ -2,7 +2,7 @@
 
 ---
 
-## Presenter Info ##
+## Presenter Info
 
 Bret Stateham
 Bret.Stateham@microsoft.com
@@ -25,6 +25,8 @@ http://github.com/bretstateham/connectthedots
 4. [Arduino with SparkFun Weather Shield](https://github.com/BretStateham/connectthedots/tree/master/HOLs/Devices/GatewayConnectedDevices/Arduino%20UNO/Weather/WeatherSheildJson)
 5. [Raspberry Pi Field Gateway](https://github.com/BretStateham/connectthedots/tree/master/HOLs/Devices/Gateways/GatewayService)
 6. [Gadgeteer with FEZ Spider](https://github.com/BretStateham/connectthedots/tree/master/HOLs/Devices/DirectlyConnectedDevices/NETMF/ConnectTheDotsGadgeteer)
+
+
 ---
 
 ## Raspberry Pi IP Addresses ##
