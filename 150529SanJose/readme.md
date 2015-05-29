@@ -9,6 +9,12 @@ Bret.Stateham@microsoft.com
 @BretStateham
 http://BretStateham.com
 
+---
+
+## Slides ##
+
+You can grab them from the [Slide Deck](/Slide Deck) folder in this same repo.
+
 ## Connect The Dots Fork ##
 
 Make sure you use my fork of the Connect the Dots Repository:
