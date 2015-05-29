@@ -31,11 +31,12 @@ http://github.com/bretstateham/connectthedots
 
 ## Raspberry Pi IP Addresses ##
 
-|  #  | IP Address      |
-| :-: | --------------: |
-|  1  | xxx.xxx.xxx.xxx |
-|  2  |     172.22.20.5 |
-|  3  | xxx.xxx.xxx.xxx |
-|  4  | xxx.xxx.xxx.xxx |
+|  #     | IP Address      |
+| :----: | --------------: |
+|   1    |    172.22.20.75 |
+|   2    |     172.22.20.5 |
+|   3    |     172.22.20.4 |
+|   4    |     172.22.20.2 |
+| Bret's |     172.22.20.7 |
  
 
