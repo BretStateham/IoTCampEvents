@@ -44,5 +44,20 @@ http://github.com/bretstateham/connectthedots
 |   3    |     172.22.20.4 |
 |   4    |     172.22.20.2 |
 | Bret's |     172.22.20.7 |
+
+---
+
+## Bret's Event Hub and Web Site Info ##
+
+|  Item | Value | 
+| --- | --- |
+|Service Bus Name:|ctdhol-ns|
+|Event Hub Name:|ehdevices|
+|Key Name:|D1|
+|Key:|L2wFYmNQ05PqD3n6d1/ScRPJB/dbzCHYh1RQwWVuBJc=|
+|URL Encoded Key:|L2wFYmNQ05PqD3n6d1%2FScRPJB%2FdbzCHYh1RQwWVuBJc%3D|
+
+Website URL :		http://ctdholweb.azurewebsites.net
+
  
 
