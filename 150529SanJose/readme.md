@@ -2,7 +2,7 @@
 
 ---
 
-## Presenter Info ## 
+## Presenter Info ##
 
 Bret Stateham
 Bret.Stateham@microsoft.com
