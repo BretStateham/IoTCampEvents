@@ -2,6 +2,18 @@
 
 ---
 
+## WiFi Info ##
+
+**PLEASE DO NOT USE THE WIFI HEAVILY.  WE ARE SHARING ABOUT A 10Mbps UP/DOWN CONNECTION.  THIS IS NOT THE TIME TO DOWNLOAD VIDEO TORRENTS!**
+
+| SSID:     | msiotcamp     | 
+| ---       | ---           |
+| **PWD:**  | **msiotcamp** | 
+
+If you have an Ethernet connection, you can plug one of the cables on the tables in.  We will be using those later for the devices though. 
+  
+---
+
 ## Presenter Info
 
 Paul DeCarlo
