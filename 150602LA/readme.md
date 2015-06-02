@@ -16,6 +16,17 @@ http://BretStateham.com
 
 ---
 
+## Links ##
+
+| Site                          | Link                     | 
+| ---                           | ---                      |
+| This Web Site                 |  http://aka.ms/iotcampla |
+| Bret's  Connect the Dots Fork | http://aka.ms/bsctd      | 
+| HOL Videos                    | http://aka.ms/ctdholvids | 
+
+
+---
+
 ## Slides ##
 
 You can grab them from the [Slide Decks](/Slide Decks) folder in this same repo (we still need to get them uploaded).
