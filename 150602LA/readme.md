@@ -11,6 +11,8 @@
 | **PWD:**  | **msiotcamp** | 
 
 If you have an Ethernet connection, you can plug one of the cables on the tables in.  We will be using those later for the devices though. 
+
+This Site: http://aka.ms/iotcampla
   
 ---
 
