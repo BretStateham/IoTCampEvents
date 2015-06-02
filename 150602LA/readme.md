@@ -43,7 +43,7 @@ http://BretStateham.com
 
 ## Slides ##
 
-You can grab them from the [Slide Decks](/Slide Decks) folder in this same repo (we still need to get them uploaded).
+You can grab them from [https://github.com/BretStateham/IoT/tree/master/General/Internet%20of%20Things%20Overview/](https://github.com/BretStateham/IoT/tree/master/General/Internet%20of%20Things%20Overview/Slides) 
 
 ## Connect The Dots Fork ##
 
