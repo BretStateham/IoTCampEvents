@@ -60,7 +60,9 @@ http://aka.ms/bsctd
 | Rocket Launcher               | http://github.com/dxdisrupt/rocket  |  
 | Seattle DeviceJam Meetup      | http://www.meetup.com/DeviceJam/    |
 | Tweet Monkey                  | http://codefoster.com/tweetmonkey   |
-| Command Monkey                | http://codefoster.com/commandmonkey | 
+| Command Monkey                | http://codefoster.com/commandmonkey |
+| MSP RGB LED Sample            | https://github.com/mspcontent/Creating-Your-First-Internet-Connected-Device | 
+| Arduino Web Motor Control     | https://www.youtube.com/watch?v=09m3ohJ4PSU | 
 
 ---
 
