@@ -17,7 +17,7 @@ If you have an Ethernet connection, you can plug one of the cables on the tables
 
 ### msiotcamp WiFi Issues ###
 
-Currently, there are some issues with the "**msiotcamp**" wifi network that prevents it's use for the lab. You can still connect for web and email, but protocols like SSH and AMQP needed for the lab are being blocked somewhere.  We will try to get it resolved, but if it doesn't you will need to connect your Gadgeteer's to the hardwired Ethernet connections on your table, not the msiotcamp WiFi.  
+Currently, there are some issues with the "**msiotcamp**" wifi network.  All "**msiotcamp**" traffic is going through my tiny [Zyxel MWR102](http://www.zyxel.com/us/en/products_services/mwr102.shtml?t=p) Access Point.  So, it is NOT a power house.  If you have an ethernet port, plug into that (at least until we need it for the devices in the lab). 
 
 ---
 
@@ -102,11 +102,19 @@ If you are having problems getting your Azure Backend to work, you can try point
 
 ## Raspberry Pi IP Addresses ##
 
-|  #     | IP Address      |
-| :----: | --------------: |
-|   1    |    172.22.20.75 |
-|   2    |     172.22.20.5 |
-|   3    |     172.22.20.4 |
-|   4    |     172.22.20.2 |
-| Bret's |     172.22.20.7 | 
+|  #     | WiF IP Address   | Ethernet IP  | 
+| :----: | --------------:  | --:          |
+|   Pi2  |                  | 10.10.10.204 |
+|   Pi3  |                  | 10.10.10.227 |
+|   Pi4  |                  | 10.10.10.148 |
+|     1  |                  |   10.10.8.97 |
+|     4  |                  |  10.10.7.174 |
+|    2C  |                  | 10.10.10.253 |
+|    3C  | 10.10.11.10      | 10.10.10.252 |
+|    4C |  10.10.10.207     |  10.10.9.198 |
+|    5C |  10.10.8.89    | 10.10.9.41  |
+|    7C |  10.10.4.182   |  10.10.6.105 |
+|    8C |  10.10.10.236  | 10.10.11.31|
+| Bret's |                  | 10.10.10.160 |
+
 
