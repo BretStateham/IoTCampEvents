@@ -51,13 +51,16 @@ http://aka.ms/bsctd
 
 ## Links ##
 
-| Site                          | Link                     | 
-| ---                           | ---                      |
-| This Web Site                 | http://aka.ms/iotcampsea |
-| Bret's  Connect the Dots Fork | http://aka.ms/bsctd      | 
-| Hands-On Labs                 | http://aka.ms/ctdhols    |
-| Hands-On Lab Videos           | http://aka.ms/ctdholvids | 
-
+| Site                          | Link                                | 
+| ---                           | ---                                 |
+| This Web Site                 | http://aka.ms/iotcampsea            |
+| Bret's  Connect the Dots Fork | http://aka.ms/bsctd                 | 
+| Hands-On Labs                 | http://aka.ms/ctdhols               |
+| Hands-On Lab Videos           | http://aka.ms/ctdholvids            |
+| Rocket Launcher               | http://github.com/dxdisrupt/rocket  |  
+| Seattle DeviceJam Meetup      | http://www.meetup.com/DeviceJam/    |
+| Tweet Monkey                  | http://codefoster.com/tweetmonkey   |
+| Command Monkey                | http://codefoster.com/commandmonkey | 
 
 ---
 
