@@ -2,6 +2,8 @@
 
 This Site: http://aka.ms/iotcampsea
 
+EVAL LINK: http://aka.ms/IoTEventWA
+
 
 ---
 
