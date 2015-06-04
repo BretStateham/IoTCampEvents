@@ -1,13 +1,13 @@
 # IoT Camp - Seattle - 06/04/2015 #
 
-This Site: http://aka.ms/iotcampla
+This Site: http://aka.ms/iotcampsea
 
 
 ---
 
 ## WiFi Info ##
 
-**PLEASE DO NOT USE THE WIFI HEAVILY.  WE ARE SHARING ABOUT A 10Mbps UP/DOWN CONNECTION.  THIS IS NOT THE TIME TO DOWNLOAD VIDEO TORRENTS!**
+**PLEASE DO NOT USE THE WIFI HEAVILY.  THIS IS NOT THE TIME TO DOWNLOAD VIDEO TORRENTS!  IF YOU NEED VISUAL STUDIO 2013 SEE ME, DON'T DOWNLOAD IT!**
 
 | SSID:     | msiotcamp     | 
 | ---       | ---           |
@@ -45,7 +45,7 @@ The live [connectthedots.io] repo has some issues, and doesn't inclue the Hands-
 
 **Make sure you use my fork of the Connect the Dots Repository:**
 
-http://github.com/bretstateham/connectthedots
+http://aka.ms/bsctd
 
 ---
 
@@ -53,9 +53,10 @@ http://github.com/bretstateham/connectthedots
 
 | Site                          | Link                     | 
 | ---                           | ---                      |
-| This Web Site                 | http://aka.ms/iotcampla  |
+| This Web Site                 | http://aka.ms/iotcampsea |
 | Bret's  Connect the Dots Fork | http://aka.ms/bsctd      | 
-| HOL Videos                    | http://aka.ms/ctdholvids | 
+| Hands-On Labs                 | http://aka.ms/ctdhols    |
+| Hands-On Lab Videos           | http://aka.ms/ctdholvids | 
 
 
 ---
@@ -69,6 +70,15 @@ http://github.com/bretstateham/connectthedots
 5. [Raspberry Pi Field Gateway](https://github.com/BretStateham/connectthedots/tree/master/HOLs/Devices/Gateways/GatewayService)
 6. [Gadgeteer with FEZ Spider](https://github.com/BretStateham/connectthedots/tree/master/HOLs/Devices/DirectlyConnectedDevices/NETMF/ConnectTheDotsGadgeteer)
 
+---
+
+## USB Sticks ##
+
+There are some USB Sticks that have the large downloads you may need on them.  
+
+**IF YOU TAKE ONE, PLEASE *COPY* THE CONTENTS TO YOUR COMPUTER THEN PASS IT ON**
+
+**PLEASE RETURN THE USB DRIVES WHEN YOU ARE DONE**
 ---
 
 ## Bret's Event Hub and Web Site Info ##
